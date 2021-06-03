@@ -157,13 +157,7 @@
             	<source>1.6</source>
                 <target>1.6</target>
     		</configuration>
-		</plugin> 
-
-<configuration>
-    <additionalClasspathElements>
-      <additionalClasspathElement>${basedir}/src/test/resources</additionalClasspathElement>
-    </additionalClasspathElements>
-</configuration>
+		
             </plugins>
 	</build>
 	<distributionManagement>
